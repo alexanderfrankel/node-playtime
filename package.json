@@ -4,7 +4,8 @@
   "description": "node playtime",
   "main": "",
   "dependencies": {
-    "colors": "^1.1.2"
+    "colors": "^1.1.2",
+    "heapdump": "^0.3.7"
   },
   "devDependencies": {
     "mocha": "^3.2.0"
